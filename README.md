@@ -7,3 +7,5 @@ A game in which two players seek in alternate turns to complete a row, a column,
 ![Game image in collage mode](https://github.com/Navneet0801/Tic-Tac-Toe/blob/main/game.png)
 
 ===========================================================================
+
+## Play the game here [Tic_Tac_Toe Game](https://navneet0801.github.io/Tic-Tac-Toe/)
